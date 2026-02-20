@@ -1,0 +1,40 @@
+AI powered chatbot for customer support and automation
+ai powered chatbot customer support automation
+AI tool for image generation and design	
+Tool for writing blogs using AI	
+Platform for data analysis and visualization	
+AI model for coding and debugging
+AI chatbot for sales and support automation
+AI chatbot for customer service and support automation
+AI tool for generating images from text prompts
+AI writing assistant for blogs, articles and marketing content
+AI coding assistant for debugging and code completion
+AI platform for data analytics and visualization
+AI tool for video editing and generation
+AI tool for logo design and image generation
+AI assistant for content writing and blogging
+AI model for coding and debugging
+AI software for business data analysis
+AI tutor for personalized learning and exam preparation
+AI tool for resume screening and recruitment automation
+AI based voice recognition and speech to text software
+AI music generator for background sound and audio effects
+AI powered cybersecurity tool for threat detection and prevention
+AI system for workflow automation and business optimization
+AI tool for medical diagnosis and healthcare analytics
+AI based financial forecasting and investment analysis platform
+AI system for automating business workflows
+AI platform for healthcare data analysis
+AI assistant for resume screening
+AI tool for speech recognition
+AI software for cyber threat detection
+AI music generation tool
+
+
+
+
+
+
+The system uses NLP preprocessing and machine learning classification to automatically identify the category of AI tools based on their description.
+
+The trained NLP model can generalize across multiple AI domains such as healthcare, finance, cybersecurity, education, and automation by learning semantic features from text descriptions using TF-IDF vectorization.
